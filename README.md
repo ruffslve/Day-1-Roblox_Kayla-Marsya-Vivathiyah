@@ -1,9 +1,6 @@
 # Day-1-Roblox_Kayla-Marsya-Vivathiyah
 Dokumentasi Day 1 Proyek Workshop
 
-# DAY 1 — PROYEK WORKSHOP
-### Building with AI, Managing Change with GitHub
-
 ---
 
 ## 1. Identitas Peserta
