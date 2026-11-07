@@ -1,16 +1,16 @@
 # Day-1-Roblox_Kayla-Marsya-Vivathiyah
-Dokumentasi Day 1 Proyek Workshop
+Dokumentasi Day 1 Workshop
 
 ---
 
-## 1. Identitas Peserta
+# 1. Identitas Peserta
 Nama Lengkap : Kayla Marsya Vivathiyah
 
 Kelompok : 24 - Roblox
 
 ---
 
-## 2. Tentang Repository
+# 2. Tentang Repository
 
 Repository ini dibuat sebagai bagian dari kegiatan Day 1 Proyek Workshop dengan tema *Building with AI, Managing Change with GitHub*.
 
@@ -18,7 +18,7 @@ Melalui repository ini, saya ingin menyimpan berbagai catatan dan hal-hal yang s
 
 ---
 
-## 3. Tujuan Repository
+# 3. Tujuan Repository
 
 Repository ini dibuat dengan beberapa tujuan, yaitu:
 
@@ -28,9 +28,9 @@ Repository ini dibuat dengan beberapa tujuan, yaitu:
 4. Mengenal dasar-dasar Git untuk mencatat dan mengelola perubahan pada suatu proyek.
 5. Membiasakan diri menyusun catatan pembelajaran secara rapi dan terstruktur.
 
----
+----
 
-## 4. Dokumentasi Kegiatan Workshop
+# 4. Dokumentasi Kegiatan Workshop
 
 ### A. Rangkuman Materi
 
@@ -87,8 +87,6 @@ Secara umum, penggunaan Git dan GitHub memiliki beberapa tahapan. Dimulai dari m
 
 Alur tersebut membantu pengguna menyimpan perkembangan proyek secara bertahap. Ketika terdapat perubahan baru, pengguna dapat kembali melakukan add, commit, dan push agar perubahan tersebut juga tersimpan di GitHub.
 
----
-
 ### B. Poin Penting dan Pengetahuan Baru
 
 Dari seluruh materi yang disampaikan selama workshop, ada beberapa hal yang menjadi pengetahuan baru bagi saya.
@@ -117,8 +115,6 @@ Saya juga memahami bahwa repository dapat digunakan untuk menyimpan dokumentasi,
 
 Melalui materi ini, saya menyadari bahwa proses belajar maupun pengerjaan proyek sebaiknya tidak hanya dilakukan, tetapi juga dicatat. Dokumentasi dapat membantu kita mengingat apa yang sudah dikerjakan dan memudahkan orang lain memahami isi suatu repository.
 
----
-
 ### C. Pendapat Pribadi tentang Day 1 Proyek Workshop
 
 Menurut saya, kegiatan Day 1 Proyek Workshop memberikan pengalaman dan pengetahuan baru, terutama dalam mengenal penggunaan AI, Git, dan GitHub. Materi yang disampaikan sebenarnya cukup menarik dan relevan dengan kebutuhan mahasiswa, khususnya bagi mereka yang ingin mulai mengenal dunia pengembangan website dan teknologi informasi.
@@ -133,8 +129,6 @@ Meskipun demikian, saya tetap mengapresiasi usaha panitia dan pemateri dalam mem
 
 Secara keseluruhan, kegiatan Day 1 Proyek Workshop tetap menjadi pengalaman yang bermanfaat bagi saya. Terlepas dari beberapa hal yang masih dapat ditingkatkan, workshop ini menjadi langkah awal untuk mengenal teknologi yang lebih luas dan mendorong saya untuk belajar secara mandiri. Harapannya, kegiatan selanjutnya dapat memberikan lebih banyak ruang bagi peserta untuk memahami materi, bertanya, dan mencoba secara langsung agar ilmu yang disampaikan tidak hanya didengar, tetapi juga benar-benar dipahami dan dapat diterapkan.
 
----
-
 ## 5. Hal yang Ingin Dipelajari Lebih Lanjut
 
 Setelah mengikuti kegiatan ini, ada beberapa hal yang ingin saya pelajari lebih dalam, di antaranya:
@@ -144,8 +138,6 @@ Setelah mengikuti kegiatan ini, ada beberapa hal yang ingin saya pelajari lebih 
 3. Memahami penggunaan Git melalui praktik secara langsung.
 4. Mempelajari fitur GitHub seperti branch dan pull request.
 5. Membiasakan diri menggunakan GitHub untuk menyimpan dan mengelola dokumentasi maupun proyek.
-
----
 
 ## 6. Penutup
 
