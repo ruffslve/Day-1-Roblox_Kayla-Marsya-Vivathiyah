@@ -129,6 +129,8 @@ Meskipun demikian, saya tetap mengapresiasi usaha panitia dan pemateri dalam mem
 
 Secara keseluruhan, kegiatan Day 1 Proyek Workshop tetap menjadi pengalaman yang bermanfaat bagi saya. Terlepas dari beberapa hal yang masih dapat ditingkatkan, workshop ini menjadi langkah awal untuk mengenal teknologi yang lebih luas dan mendorong saya untuk belajar secara mandiri. Harapannya, kegiatan selanjutnya dapat memberikan lebih banyak ruang bagi peserta untuk memahami materi, bertanya, dan mencoba secara langsung agar ilmu yang disampaikan tidak hanya didengar, tetapi juga benar-benar dipahami dan dapat diterapkan.
 
+---
+
 ## 5. Hal yang Ingin Dipelajari Lebih Lanjut
 
 Setelah mengikuti kegiatan ini, ada beberapa hal yang ingin saya pelajari lebih dalam, di antaranya:
@@ -138,6 +140,8 @@ Setelah mengikuti kegiatan ini, ada beberapa hal yang ingin saya pelajari lebih 
 3. Memahami penggunaan Git melalui praktik secara langsung.
 4. Mempelajari fitur GitHub seperti branch dan pull request.
 5. Membiasakan diri menggunakan GitHub untuk menyimpan dan mengelola dokumentasi maupun proyek.
+
+---
 
 ## 6. Penutup
 
