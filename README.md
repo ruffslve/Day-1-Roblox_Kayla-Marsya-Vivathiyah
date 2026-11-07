@@ -7,10 +7,8 @@ Dokumentasi Day 1 Proyek Workshop
 ---
 
 ## 1. Identitas Peserta
-| Nama Lengkap | Kayla Marsya Vivathiyah |
-| Kelompok | 24 - Roblox |
-| Kegiatan | Day 1 Proyek Workshop |
-| Topik Workshop | Building with AI, Managing Change with GitHub |
+Nama Lengkap : Kayla Marsya Vivathiyah
+Kelompok : 24 - Roblox
 
 ---
 
